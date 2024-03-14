@@ -1,0 +1,5 @@
+baseURL = 'https://bdkkjp.github.io/Vidensbase/'
+languageCode = 'en-us'
+title = 'Vidensbase'
+theme = 'PaperMod'
+
