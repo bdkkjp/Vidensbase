@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on Vidensbase</title>
+    <link>https://bdkkjp.github.io/Vidensbase/docs/</link>
+    <description>Recent content in Docs on Vidensbase</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2024 12:26:45 +0100</lastBuildDate>
+    <atom:link href="https://bdkkjp.github.io/Vidensbase/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://bdkkjp.github.io/Vidensbase/docs/test/</link>
+      <pubDate>Thu, 14 Mar 2024 12:26:45 +0100</pubDate>
+      <guid>https://bdkkjp.github.io/Vidensbase/docs/test/</guid>
+      <description>This is a test heading. This is a test text!</description>
+    </item>
+  </channel>
+</rss>
